@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gameListFragment"
+        android:icon="@drawable/games_list"
+        android:title="Collection" />
+    <item
+        android:id="@+id/addGameFragment"
+        android:icon="@drawable/add_game"
+        android:title="Add Game" />
+<!--    <item-->
+<!--        android:id="@+id/statsFragment"-->
+<!--        android:icon="@drawable/game_statistic"-->
+<!--        android:title="Stats" />-->
+</menu>

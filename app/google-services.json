@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450814631262",
+    "firebase_url": "https://boardgamebuddy-4512a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "boardgamebuddy-4512a",
+    "storage_bucket": "boardgamebuddy-4512a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450814631262:android:b7c9fd181adc4f874483cf",
+        "android_client_info": {
+          "package_name": "com.example.boardgamebuddt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4a_sHsvytzRPVju4pXxRcth40CWVAkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
